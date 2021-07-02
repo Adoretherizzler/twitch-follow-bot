@@ -14,8 +14,10 @@ cd twitch-follow-bot
 npm i
 ```
 
-Now, put your tokens in ``tokens.txt``.
+Now, put the bot token in ``index.js`` (line 243). Put your Twitch's tokens in ``tokens.txt`` and click on ``start.bat``.
 
-```
-node index.js
-```
+Enjoy with the bot ;)
+
+
+
+I am not responsible for any bullshit you are going to do with the bot.
