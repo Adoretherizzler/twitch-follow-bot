@@ -18,6 +18,6 @@ Now, put the bot token in ``index.js`` (line 243). Put your Twitch's tokens in `
 
 Enjoy with the bot ;)
 
-
+caydenharrell
 I am not responsible for any bullshit you are going to do with the bot.
 -------------------
